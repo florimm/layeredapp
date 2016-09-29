@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "LayeredApp.Server.Business.Service/1.0.0": {
+        "dependencies": {
+          "LayeredApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LayeredApp.Server.Business.Service.dll": {}
+        }
+      },
+      "LayeredApp.Domain/1.0.0": {
+        "runtime": {
+          "LayeredApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LayeredApp.Server.Business.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LayeredApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+#:E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.WebApi\LayeredApp.Server.WebApi.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.WebApi\LayeredApp.Server.WebApi.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Domain\LayeredApp.Domain.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.WebApi\LayeredApp.Server.WebApi.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Business\LayeredApp.Server.Business.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.WebApi\LayeredApp.Server.WebApi.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Business.Service\LayeredApp.Server.Business.Service.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.WebApi\LayeredApp.Server.WebApi.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Business.Validation\LayeredApp.Server.Business.Validation.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.WebApi\LayeredApp.Server.WebApi.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Core\LayeredApp.Server.Core.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.WebApi\LayeredApp.Server.WebApi.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Core.Database\LayeredApp.Server.Core.Database.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.WebApi\LayeredApp.Server.WebApi.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Core.Utilities\LayeredApp.Server.Core.Utilities.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.WebApi\LayeredApp.Server.WebApi.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Host\LayeredApp.Server.Host.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Business\LayeredApp.Server.Business.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Domain\LayeredApp.Domain.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Business.Service\LayeredApp.Server.Business.Service.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Domain\LayeredApp.Domain.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Business.Validation\LayeredApp.Server.Business.Validation.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Domain\LayeredApp.Domain.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Core\LayeredApp.Server.Core.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Domain\LayeredApp.Domain.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Core.Database\LayeredApp.Server.Core.Database.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Domain\LayeredApp.Domain.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Core.Utilities\LayeredApp.Server.Core.Utilities.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Domain\LayeredApp.Domain.xproj
+E:\Projects\Visual Studio\LayeredApp\LayeredApp.Server.Host\LayeredApp.Server.Host.xproj|E:\Projects\Visual Studio\LayeredApp\LayeredApp.Domain\LayeredApp.Domain.xproj
